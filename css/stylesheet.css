@@ -1,0 +1,30 @@
+
+#colorful{
+	font-family:Cursive,Arial,sans-serif;
+	text-align:center;
+	font-size:60px;
+}
+.headBox
+{	
+	margin-top: 15px;
+	margin-left: 430px;
+	height: 85px;
+	width: 415px;
+	border: 2px solid red;
+	border-radius: 10px;
+	text-align: center;
+	background-color:white;
+	cursor: pointer;
+
+}
+.redeffect{
+
+	background-color: red;
+	color: white;
+}
+span{
+	color:white;
+}
+#g{
+	color:#80ff00;
+}
