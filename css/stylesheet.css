@@ -1,18 +1,30 @@
 
 
-.box{
+.mainbox{
 	border:2px solid #E6293F;
-	border-radius: 10px;
-	margin-left: 10px;
+	border-radius: 20px;
+	margin-left: 13px;
 	height: 630px;
 	width: 1320px;
 }
+
+.outerbox{
+	border:3px solid black;
+	height: 87px;
+	width: 417px;
+	margin-left: 432px;
+	margin-top: 15px;
+	border-radius: 15px;
+}
 .headBox
 {	
+	position: fixed;
+	left: 28px;
+	top: 12px;
 	margin-top: 15px;
 	margin-left: 430px;
-	height: 85px;
-	width: 415px;
+	height: 84px;
+	width: 414px;
 	border: 2px solid #F50A25;
 	border-radius: 10px;
 	text-align: center;
