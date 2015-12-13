@@ -1,8 +1,11 @@
 
-#colorful{
-	font-family:Cursive,Arial,sans-serif;
-	text-align:center;
-	font-size:60px;
+
+.box{
+	border:2px solid #E6293F;
+	border-radius: 10px;
+	margin-left: 10px;
+	height: 630px;
+	width: 1320px;
 }
 .headBox
 {	
@@ -10,21 +13,17 @@
 	margin-left: 430px;
 	height: 85px;
 	width: 415px;
-	border: 2px solid red;
+	border: 2px solid #F50A25;
 	border-radius: 10px;
 	text-align: center;
-	background-color:white;
+	background-color:#E6293F;
 	cursor: pointer;
-
 }
-.redeffect{
 
-	background-color: red;
+#gk{
+
+	font-family: cursive;
+	font-size: 60px;
 	color: white;
-}
-span{
-	color:white;
-}
-#g{
-	color:#80ff00;
+
 }
