@@ -37,5 +37,69 @@
 	font-family: cursive;
 	font-size: 60px;
 	color: white;
+}
 
+.photoFrame{
+	margin-top: 50px;
+	margin-left: 555px;
+	border:2px solid #E6293F;
+	border-radius: 150px;
+	height: 185px;
+	width: 185px;
+}
+
+.blogStyle{					
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 150px;
+	margin-top: -150px;
+}
+
+.resumeStyle{				
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 300px;
+	margin-top: -0px;
+}
+
+.githubStyle{					
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 450px;
+	margin-top: -0px;
+}
+
+.mailStyle{					
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 600px;
+	margin-top: -0px;
+}
+
+.facebookStyle{				
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 750px;
+	margin-top: -180px;
+}
+
+.linkedinStyle{				
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 900px;
+	margin-top: -180px;
+}
+
+.twitterStyle{			
+	border:5px solid;
+	height:80px;
+	width: 80px;
+	margin-left: 1050px;
+	margin-top: -180px;
 }
