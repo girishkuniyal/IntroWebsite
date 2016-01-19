@@ -49,57 +49,57 @@
 }
 
 .blogStyle{					
-	border:5px solid;
+	
 	height:80px;
 	width: 80px;
 	margin-left: 150px;
-	margin-top: -150px;
+	margin-top: 80px;
 }
 
 .resumeStyle{				
-	border:5px solid;
+
 	height:80px;
 	width: 80px;
 	margin-left: 300px;
-	margin-top: -0px;
+	margin-top: -70px;
 }
 
 .githubStyle{					
-	border:5px solid;
+	
 	height:80px;
 	width: 80px;
 	margin-left: 450px;
-	margin-top: -0px;
+	margin-top: -80px;
 }
 
 .mailStyle{					
-	border:5px solid;
+	
 	height:80px;
 	width: 80px;
 	margin-left: 600px;
-	margin-top: -0px;
+	margin-top: -80px;
 }
 
 .facebookStyle{				
-	border:5px solid;
+	
 	height:80px;
 	width: 80px;
 	margin-left: 750px;
-	margin-top: -180px;
+	margin-top: -80px;
 }
 
 .linkedinStyle{				
-	border:5px solid;
+	
 	height:80px;
 	width: 80px;
 	margin-left: 900px;
-	margin-top: -180px;
+	margin-top: -80px;
 }
 
 .twitterStyle{			
-	border:5px solid;
+	
 	height:80px;
 	width: 80px;
 	margin-left: 1050px;
-	margin-top: -180px;
+	margin-top: -80px;
 }
