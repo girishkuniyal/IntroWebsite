@@ -11,7 +11,6 @@ body {
 }
 
 .outerbox{
-	border:3px solid black;
 	height: 87px;
 	width: 417px;
 	margin-left: 432px;
@@ -27,7 +26,7 @@ body {
 	margin-left: 430px;
 	height: 84px;
 	width: 414px;
-	border: 2px solid #F50A25;
+	border: 2px solid black;
 	border-radius: 10px;
 	text-align: center;
 	background-color:#E6293F;
@@ -43,11 +42,11 @@ body {
 
 .photoFrame{
 	margin-top: 50px;
-	margin-left: 555px;
+	margin-left: 530px;
 	border:2px solid #E6293F;
-	border-radius: 150px;
-	height: 185px;
-	width: 185px;
+	border-radius:5px;
+	height: 220px;
+	width: 235px;
 }
 
 

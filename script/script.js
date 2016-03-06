@@ -49,7 +49,7 @@ $(document).ready(function(){
 		/*******************mail*********************/
 
 	  $(".mailStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.70);
+     	$(this).fadeTo(250,0.60);
   	});
 
 	$(".mailStyle").mouseleave(function(){
