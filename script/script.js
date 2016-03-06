@@ -16,7 +16,7 @@ $(document).ready(function(){
 		/*******************twitter*********************/
 
 	  $(".twitterStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
+     	$(this).fadeTo(250,0.70);
   	});
 
 
@@ -25,40 +25,21 @@ $(document).ready(function(){
   	});
 
 
-	
-		/*******************facebook*********************/
-
-	  $(".facebookStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
-  	});
-
-	$(".facebookStyle").mouseleave(function(){
-	$(this).fadeTo(250,1);
-	})
 		/*******************Linkedin*********************/
 	
 	  $(".linkedinStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
+     	$(this).fadeTo(250,0.70);
   	});
 
 	$(".linkedinStyle").mouseleave(function(){
     	$(this).fadeTo(250,1);
   	});
 
-		/*******************blogs*********************/
-
-	  $(".blogStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
-  	});
-		
-	$(".blogStyle").mouseleave(function(){
-    	$(this).fadeTo(250,1);
-  	});
 
 		/*******************github*********************/
 
 	  $(".githubStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
+     	$(this).fadeTo(250,0.70);
   	});
 		
 	$(".githubStyle").mouseleave(function(){
@@ -68,7 +49,7 @@ $(document).ready(function(){
 		/*******************mail*********************/
 
 	  $(".mailStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
+     	$(this).fadeTo(250,0.70);
   	});
 
 	$(".mailStyle").mouseleave(function(){
@@ -78,14 +59,12 @@ $(document).ready(function(){
 		/*******************resumer*********************/
 
 	  $(".resumeStyle").mouseenter(function(){
-     	$(this).fadeTo(250,0.75);
+     	$(this).fadeTo(250,0.70);
   	});
 
 	$(".resumeStyle").mouseleave(function(){
     	$(this).fadeTo(250,1);
   	});
-	  	
-
 
 
 });

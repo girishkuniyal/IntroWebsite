@@ -1,10 +1,12 @@
-
+body {
+	background-repeat:no-repeat;
+}
 
 .mainbox{
-	border:2px solid #E6293F;
+	border:2px solid #ff6666;
 	border-radius: 20px;
 	margin-left: 13px;
-	height: 630px;
+	height: 650px;
 	width: 1320px;
 }
 
@@ -48,58 +50,48 @@
 	width: 185px;
 }
 
-.blogStyle{					
-	
-	height:80px;
-	width: 80px;
-	margin-left: 150px;
-	margin-top: 80px;
-}
 
 .resumeStyle{				
 
 	height:80px;
 	width: 80px;
-	margin-left: 300px;
-	margin-top: -70px;
+	margin-left: 290px;
+	margin-top: 65px;
+	mix-blend-mode: multiply;
 }
 
 .githubStyle{					
 	
 	height:80px;
 	width: 80px;
-	margin-left: 450px;
+	margin-left: 440px;
 	margin-top: -80px;
+	mix-blend-mode: multiply;
 }
 
 .mailStyle{					
 	
 	height:80px;
 	width: 80px;
-	margin-left: 600px;
+	margin-left: 590px;
 	margin-top: -80px;
-}
-
-.facebookStyle{				
-	
-	height:80px;
-	width: 80px;
-	margin-left: 750px;
-	margin-top: -80px;
+	mix-blend-mode: multiply;
 }
 
 .linkedinStyle{				
 	
 	height:80px;
 	width: 80px;
-	margin-left: 900px;
+	margin-left: 740px;
 	margin-top: -80px;
+	mix-blend-mode: multiply;
 }
 
 .twitterStyle{			
 	
 	height:80px;
 	width: 80px;
-	margin-left: 1050px;
+	margin-left: 890px;
 	margin-top: -80px;
+	mix-blend-mode: multiply;
 }
